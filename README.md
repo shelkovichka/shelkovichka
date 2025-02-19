@@ -18,4 +18,4 @@
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelkovichka&layout=donut)
